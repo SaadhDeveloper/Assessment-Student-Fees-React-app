@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assessment-Student-Fees-React-app/static/css/main.651a027b.css",
+    "main.js": "/Assessment-Student-Fees-React-app/static/js/main.c49f3e69.js",
+    "static/js/787.30938744.chunk.js": "/Assessment-Student-Fees-React-app/static/js/787.30938744.chunk.js",
+    "index.html": "/Assessment-Student-Fees-React-app/index.html",
+    "main.651a027b.css.map": "/Assessment-Student-Fees-React-app/static/css/main.651a027b.css.map",
+    "main.c49f3e69.js.map": "/Assessment-Student-Fees-React-app/static/js/main.c49f3e69.js.map",
+    "787.30938744.chunk.js.map": "/Assessment-Student-Fees-React-app/static/js/787.30938744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651a027b.css",
+    "static/js/main.c49f3e69.js"
+  ]
+}
